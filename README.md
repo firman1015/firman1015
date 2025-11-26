@@ -1,6 +1,6 @@
 ### Hi there, I'm Firman  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a full-stack software engineer based at Bogor city, Indonesia. During the past 12 years of working with software development, I have obtained an understanding into wide area of technical domains ranging from both front and back end development. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, React Native, Typescript, Angular, Ionic, Vue.js, Node.js, Express.js, Nest.js, Next.js, Nuxt.js, Meteor.js, PHP, Laravel, Codeigniter, etc.
+I am a full-stack software engineer. I have obtained an understanding into wide area of technical domains ranging from both frontend and backend development. I'm passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, React Native, Typescript, Angular, Ionic, Vue.js, Node.js, Express.js, Nest.js, Next.js, Nuxt.js, Meteor.js, PHP, Laravel, Codeigniter, etc.
 
 ### Technologies
 
