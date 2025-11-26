@@ -1,6 +1,6 @@
 ### Hi there, I'm Firman  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a full-stack software engineer. I have obtained an understanding into wide area of technical domains ranging from both frontend and backend development. I'm passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, React Native, Typescript, Angular, Ionic, Vue.js, Node.js, Express.js, Nest.js, Next.js, Nuxt.js, Meteor.js, PHP, Laravel, Codeigniter, etc.
+I'm a full-stack software engineer. I have obtained an understanding into wide area of technical domains ranging from both frontend and backend development. I'm passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, React Native, Typescript, Angular, Ionic, Vue.js, Node.js, Express.js, Nest.js, Next.js, Nuxt.js, Meteor.js, PHP, Laravel, Codeigniter, etc.
 
 ### Technologies
 
